@@ -70,7 +70,7 @@ export const Courses = () => {
                                 Plan de estudios
                             </Link>
                             <a href={program.facebook} target="_blank" rel="noopener noreferrer">
-                                <FaFacebook className="w-10 h-10 text-blue-700"/>
+                                <FaFacebook className="w-10 h-10 text-unsij-daintree-950"/>
                             </a>
                         </div>
                     </div>

@@ -47,7 +47,7 @@ export const Postgraduates = () => {
                             {postgraduate.facebook && (
                                 <a role='button' href={postgraduate.facebook} target="_blank"
                                     rel="noopener noreferrer"
-                                    className="inset-0 rounded-full p-2 bg-blue-700 hover:bg-blue-900">
+                                    className="inset-0 rounded-full p-2 bg-unsij-daintree-950 hover:bg-blue-900">
                                     <FaFacebookF className='text-3xl text-white' />
                                 </a>
                             )}
